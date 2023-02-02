@@ -17,5 +17,5 @@ bundle install
 To run the program
 
 ```
-ruby hangman.rb
+bundle exec ruby main.rb
 ```

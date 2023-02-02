@@ -8,6 +8,12 @@ To add new words, write them into the file words.txt in data(each word in a sepa
 ## Program
 Ruby 3.
 
+Before starting the program
+
+```
+bundle install
+```
+
 To run the program
 
 ```
